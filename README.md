@@ -8,3 +8,6 @@ Esse repositório foi criado para você treinar o uso colaborativo do Github.
 
 ## Como constribuir?
 Para saber como contribuir, leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Inspiração
+Esse repositório foi inspirado no repo em inglês [make-pull-request](https://github.com/twowaits/make-pull-request).
