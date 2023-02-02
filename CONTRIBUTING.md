@@ -8,5 +8,5 @@ Em [Issues](https://github.com/ComunidadeCafeina/treino-git-github/issues) você
 
 1. Não seja desrespeitoso. 
 2. Tente criar PRs, branches e comentários significativos. Evite usar nomes como "agora vai" ou "shuahsauh".
-3. Irei aprovar os PRs sempre que puder. Fique atento caso em comente algo no seu PR.
+3. Irei aprovar os PRs sempre que puder. Fique atento caso comente algo no seu PR.
 
